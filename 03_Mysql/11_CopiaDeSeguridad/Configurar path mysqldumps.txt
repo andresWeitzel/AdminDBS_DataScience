@@ -1,0 +1,3 @@
+Configurar path mysqldumps pra hacer backups y restores
+Edit -> Preferences -> Administration -> path to mysqldumps tools
+C:\xampp\mysql\bin\mysqldump.exe

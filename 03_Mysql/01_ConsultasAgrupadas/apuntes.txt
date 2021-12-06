@@ -1,0 +1,32 @@
+﻿funciones agrupadas
+count,sum,avg,max,min
+
+criterios de agrupacion
+provincia,
+ciudad,
+pais,
+marca, 
+modelo,
+sexo,
+tipo de libro,
+curso,
+año,
+semestre,
+mes,
+talle,
+color
+
+-----------------------------
+
+
+
+		select		provincia, 
+				localidad, 
+				count(dni) as poblacion
+		from		censo
+		group by	provincia,localidad
+
+
+
+
+

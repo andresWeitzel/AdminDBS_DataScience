@@ -1,0 +1,23 @@
+
+bases de datos  --> aplicacion cliente
+
+entidades		-->	clases
+atributo		--> atributo de la clase
+
+
+--------------------------------------
+
+Diseño de bases de datos
+	--> recoleccion de datos
+	--> entidades relevantes al sistema
+	--> determinacion de atributos de cada entidad
+	--> determinar las relaciones entre entidades
+			--> grado de la relacion
+			--> conectividad de la relacion
+				--> 1 a 1
+				--> 1 a N
+				--> N a M
+			--> condicionalidad de la relacion
+	--> dibujar el diagrama de entidad-relacion
+	--> implementar en diagrama de tablas para un motor de BD
+	--> Testing a traves de consultas relacionadas(joins) 

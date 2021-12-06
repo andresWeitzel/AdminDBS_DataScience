@@ -1,0 +1,23 @@
+SQL
+	--> DDL: lenguaje de definicion de datos
+		--> CREATE
+		--> ALTER
+		--> DROP
+		--> se usan a nivel de objetos
+							--> bases de datos	
+							--> tablas
+							--> funciones
+							--> proc. almacenados
+							--> vistas
+
+	--> DML: lenguaje de manipulacion de datos
+		--> SELECT
+		--> INSERT
+			--> simplificado:
+				--> cuando conozco TODOS los datos del registro a insertar
+				--> se debe mantener el orden en el cual fueron creados los campos
+			--> extendido
+				--> cuando NO conozco TODOS los datos del registro a insertar
+		--> UPDATE
+		--> DELETE
+		--> se usan a nivel de registros
